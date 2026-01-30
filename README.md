@@ -1,2 +1,2 @@
-# Better-Weapon-s
-Better Weapon's
+# Better-Weapon
+Better Weapon
