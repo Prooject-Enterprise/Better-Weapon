@@ -7,7 +7,7 @@
 > **"Master your blade, control the flow of battle."**  
 > *Enhancing combat while staying true to the soul of Hytale.*
 
-![Version](https://img.shields.io/badge/Version_1.0.0-orange) ![Hytale](https://img.shields.io/badge/Game-Hytale-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version_1.2.0-orange) ![Hytale](https://img.shields.io/badge/Game-Hytale-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
 </div>
 
