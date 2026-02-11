@@ -1,0 +1,33 @@
+{
+  "Group": "com.prooject",
+  "Name": "Better Weapon",
+  "Version": "1.3.0",
+  "Description": "",
+  "Authors": [
+    {
+      "Name": "Prooject",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "Main": "com.prooject.WeaponSignaturePreservation.SignaturePreservation",
+  "IncludesAssetPack": true,
+  "SubPlugins": [
+    {
+      "Name": "BetterTrainingDummy",
+      "Version": "1.3.0",
+      "Main": "com.prooject.bettertrainingdummy.Main"
+    },
+    {
+      "Name": "RaiseTheArrow",
+      "Version": "1.3.0",
+      "Main": "com.prooject.RaiseTheArrow.ArrowMain.ArrowPickupPlugin"
+    }
+  ]
+}
+
