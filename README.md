@@ -4,11 +4,15 @@
 
 ![Better Weapons Logo](logo.png)
 
-> **"Master your blade, control the flow of battle."**  
-> *Enhancing combat while staying true to the soul of Hytale.*
+![Version](https://img.shields.io/badge/Version_1.2.0-orange) ![Hytale](https://img.shields.io/badge/Game-Hytale-blue) ![License](https://img.shields.io/badge/License-GPL-green)
 
-![Version](https://img.shields.io/badge/Version_1.2.0-orange) ![Hytale](https://img.shields.io/badge/Game-Hytale-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
+## ⚖️ Licensing
+This project is **dual-licensed**:
+- **Community Edition**: [GPLv3](LICENSE) (Free, but requires you to keep your code open).
+- **Commercial Edition**: [Commercial License](https://boosty.to/proojectenterprise) (For proprietary use, available via Boosty).
+
+All projects: [CurseForge](https://www.curseforge.com/members/prooject/projects) | [GitHub](https://github.com/Prooject-Enterprise)
 </div>
 
 ## 📖 About The Mod
