@@ -41,6 +41,6 @@ Currently, the mod focuses on mobility for light weapons. The standard "Block" i
 ## 🤝 Contributing
 
 If you have ideas for new weapon abilities that fit the vanilla style, feel free to open an Issue or Pull Request!
-
+By contributing, you agree to our CLA
 ---
 *Created by Loocik*
