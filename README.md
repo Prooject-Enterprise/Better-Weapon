@@ -44,3 +44,5 @@ If you have ideas for new weapon abilities that fit the vanilla style, feel free
 By contributing, you agree to our CLA
 ---
 *Created by Loocik*
+
+тест
